@@ -3,9 +3,9 @@
   "version": "2.0.0",
   "description": "Codelab for Your First PWAPP",
   "homepage": "https://codelabs.developers.google.com/codelabs/your-first-pwapp/",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "express": "^4.16.4",
